@@ -7,6 +7,9 @@ height:6000px;
 overflow-x:hidden; 
 position: relative;
 }
+.body-wrapper{
+	padding:20px 30px;
+}
 body:before{
 content: "";
 background: rgba(0,0,0,0.7);

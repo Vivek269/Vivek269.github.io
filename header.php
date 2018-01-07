@@ -21,6 +21,20 @@
 <![endif]-->
 </head>
 <body>
+<!--fixed sidebar-->
+<div class="sidebar">
+<span class="closebutton" style="float:right"><i class="fa fa-times" aria-hidden="true"></i>
+</span>
+	<ul class="nav nav-pills nav-stacked">
+		<li><a href="#">Home</a></li>
+        <li><a href="#">Profile</a></li>
+       	<li><a href="#">Services</a></li>
+       	<li><a href="#">Portfolio</a></li>
+		<li><a href="#">Contact</a></li>
+	</ul>
+
+
+</div>
 <div class="body-wrapper">
 <div class="content-wrapper">
 <div class="wrapper1">
@@ -56,74 +70,3 @@
 	</div><!--close for nav-wrapper-->
 		
 </div><!--close for topbar--> 
-	
-
-
-
-	</div><!--close for wrapper-1-->
-    <div class="wrapper2">
-    <div class="vertical-dots">
-    	<ul>
-          <li><a class="style" href="#"></a></li>
-          <li><a href="#"></a></li>
-          <li><a href="#"></a></li>
-          <li><a href="#"></a></li>
-    	</ul>
-
-    </div>
-
-    <div class="text-wrapper">
-<div class="text">
-	<div class="text-wrap1">
-		
-
-	</div><!--close for textwrap1-->
-	<div class="text-wrap2">
-		
-	</div><!--close for textwrap2-->
-	<div class="text-wrap3">
-		
-	</div><!--close for textwrap3-->
-	<div class="text-wrap4">
-		
-
-	</div><!--close for textwrap4-->
-</div>
-    <div class="background-wrapper">
-  <div class=" background" id="background1">
- </div><!--close for text-wrap-1-->
-<div class="background" id="background2">
-</div><!--close for text-wrap-2-->
-<div class="text-wrap3  background" id="background3">
-</div><!--close for text-wrap3-->   
-<div class="background" id="background4">
-</div><!--close for text-wrap4--> 
-</div><!--close for background-wrapper-->
-</div><!--close for text-wrapper-->	
-    </div><!--close for wrapper 2-->
-
-
-
-</div><!--close for content wrapper-->
-
-
-
-</div><!--close for body wrapper-->
-
-<!--fixed sidebar-->
-<div class="sidebar">
-<span class="closebutton" style="float:right"><i class="fa fa-times" aria-hidden="true"></i>
-</span>
-	<ul class="nav nav-pills nav-stacked">
-		<li><a href="#">Home</a></li>
-        <li><a href="#">Profile</a></li>
-       	<li><a href="#">Services</a></li>
-       	<li><a href="#">Portfolio</a></li>
-		<li><a href="#">Contact</a></li>
-	</ul>
-
-
-</div>
-
-</body>
-</html>
