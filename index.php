@@ -1,6 +1,6 @@
 <?php
 
-require "header.php";
+include "header.php";
 ?>
 <div class="welcomecontent">
 	
@@ -57,6 +57,6 @@ require "header.php";
 
 <?php
 
-require "footer.php";
+include "footer.php";
 
 ?>
